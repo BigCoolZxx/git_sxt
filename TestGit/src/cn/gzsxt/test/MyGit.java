@@ -12,7 +12,7 @@ public class MyGit {
 	}
 	
 	public void test() {
-		
+		System.out.println("123");
 		System.out.println("22222");
 	}
 }
